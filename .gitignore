@@ -1,0 +1,9 @@
+node_modules
+*.aaf
+*.aep
+*.aet
+*.aepx
+*.prproj
+*.prprojx
+*.psd
+*.ai
